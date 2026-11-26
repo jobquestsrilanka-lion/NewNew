@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "name": "Local Project 2",
+  "target": {
+    "framework": "arduino",
+    "board": "esp32:esp32:esp32",
+    "options": {}
+  },
+  "serial": null,
+  "build": {
+    "properties": []
+  },
+  "createdAt": "2026-11-26T07:49:02.970Z",
+  "updatedAt": "2026-11-26T07:49:02.970Z"
+}
